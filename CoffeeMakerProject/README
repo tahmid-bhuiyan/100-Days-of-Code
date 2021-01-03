@@ -1,0 +1,4 @@
+Please run main.py with the rest of the files in the same directory.
+
+The coffee machine class is initialized with a specific number of resources (water, milk, and coffee). 
+This program asks the user to select a beverage given three choices (latte/espresso/cappuccino).
